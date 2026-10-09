@@ -35,7 +35,7 @@ public class profitloss {
                 System.out.println("seller made profit of " +c);
             }
         }
-
+        // hi
 
     }
 }
