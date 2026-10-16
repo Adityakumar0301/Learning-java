@@ -32,7 +32,6 @@ public class ifelsequestion {
                 System.out.print("Not Weird");
             }
         }
-
         sc.close();
     }
 }
